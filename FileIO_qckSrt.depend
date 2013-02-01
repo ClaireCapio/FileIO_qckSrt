@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1359713972 source:d:\users\anzano-\documents\prog\fileio_qcksrt\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
